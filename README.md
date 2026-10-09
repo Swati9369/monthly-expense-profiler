@@ -25,7 +25,7 @@ Rather than requiring manual entry of 120 separate data points, the pipeline use
 - **Matplotlib** (Data visualization)
 
 ## How to Run
-1. Open the project in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+1. Open the project in Google Colab: [![Open In Colab](https://colab.research.google.com/github/Swati9369/monthly-expense-profiler/blob/main/Monthly_Expense_Profiler_ipynb_.ipynb)
 2. Run the code cell.
 3. Enter your preferred **Monthly Budget** and **Daily Spending Limit** when prompted.
 
